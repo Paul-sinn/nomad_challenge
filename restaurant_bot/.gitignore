@@ -1,0 +1,8 @@
+.env
+.venv/
+.uv-cache/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+customer-support-memory.db
